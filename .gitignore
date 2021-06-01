@@ -1,0 +1,8 @@
+.idea
+.build
+.tarballs
+.DS_STORE
+spot-price-exporter
+bin
+vendor
+.env
